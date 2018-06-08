@@ -1,0 +1,16 @@
+*.class
+
+*/bin/
+/test/
+# Log Files
+*.log
+# Intellij
+*.iml
+*/*.iml
+*.*~
+~*.*
+*.bak
+*.tem
+*.temp
+/WebRoot/WEB-INF/classes/*
+/WebRoot/WEB-INF/lib/*
